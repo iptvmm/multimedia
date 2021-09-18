@@ -1,0 +1,60 @@
+# Encoded by Viktor, Reddit: u/investigatorguy137
+#EXTM3U
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Czech Republic",Elektrika TV
+http://rtmp.elektrika./live/myStream.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Czech Republic",Filmbox Premium HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/71066?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Czech Republic",Golf Channel
+http://new-pro.tv:8080/Hotel-2021/Allroom/71070?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Czech Republic",HBO 3
+http://new-pro.tv:8080/Hotel-2021/Allroom/71072?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Czech Republic",HBO FHD
+http://new-pro.tv:8080/Hotel-2021/Allroom/71073?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Czech Republic",History HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/71074?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Czech Republic",JOJ
+http://cdn.ayproviders.xyz:80/ZjFB7A8ySw/EM5OYbdMBa/98052?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Czech Republic",JOJ Cinema HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/71075?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Czech Republic",Kino SVET
+http://new-pro.tv:8080/Hotel-2021/Allroom/71079?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Czech Republic",Mnam TV
+http://new-pro.tv:8080/Hotel-2021/Allroom/71083?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Czech Republic",Nat Geo Wild FHD
+http://new-pro.tv:8080/Hotel-2021/Allroom/71086?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Czech Republic",Nautical HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/71089?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Czech Republic",Nova Action HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/71091?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Czech Republic",Polar TV
+https://stream.polar./polar/polarlive-1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Czech Republic",Prima HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/71097?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Czech Republic",RTM plus
+http://www.rtmplus./live/1-playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Czech Republic",Retro Czech Republic TV
+http://new-pro.tv:8080/Hotel-2021/Allroom/71099?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Czech Republic",SKY Czech Republic 2 HD
+http://wagmaott.com:8080/azaro_frCkq9RQiHt3/USwsyAq8Yz/7273?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Czech Republic",Czech Republic 5
+http://new-pro.tv:8080/Hotel-2021/Allroom/71106?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Czech Republic",TV Morava
+http://stream.redigy.:1934/tvm.flv?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Czech Republic",TV Natura
+http://media1.tvnatura./live_out/1/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Czech Republic",Viasat History HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/71108?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="https://i.iinfo./images/409/v1-vychodoceska-televize-1.jpg" group-title="Czech Republic",Východočeská TV
+https://stream.polar./vctv/vctvlive-1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Czech Republic",Ocko
+https://ocko-live-dash.ssl.cdn.cra./cra_live2/ocko.stream.1.smil/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Czech Republic",Óčko Expres
+http://ocko-live.ssl.cdn.cra./channels/ocko_expres/playlist/e/live_hq.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Czech Republic",Óčko Gold
+https://ocko-live-dash.ssl.cdn.cra./cra_live2/ocko_gold.stream.1.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Czech Republic",Óčko STAR
+http://ocko-live.ssl.cdn.cra./channels/ocko_gold/playlist/e/live_hq.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Czech Republic",Šlágr
+https://slagrtv-live-hls.ssl.cdn.cra./channels/slagrtv/playlist/e/live_hq.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Czech Republic",Šlágr 2
+http://92.62.234.233/slagr2.m3u#.m3u8?checkedby:iptvcat.com

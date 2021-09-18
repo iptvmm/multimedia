@@ -1,0 +1,122 @@
+# Encoded by Viktor, Reddit: u/investigatorguy137
+#EXTM3U
+#EXTINF:0 tvg-country="SK" tvg-logo="" group-title="Television",Bardejovska Televizia
+rtmp://s1.media-planet.sk:80/live/bardejov1
+#EXTINF:0 tvg-country="SK" tvg-logo="" group-title="Television",Fashion TV
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Television",JOJ HD
+https://nn.geo.joj.sk/live/hls/joj-720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Television",WAU HD
+https://nn.geo.joj.sk/live/hls/wau-540.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Television",Markiza FHD
+http://213.151.233.20:8000/dna-5106-tv-pc/hls/4000v102.m3u8
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",DOMA FHD
+http://new-pro.tv:8080/Hotel-2021/Allroom/71056?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Dajto HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/71057?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="",JOJ Family
+http://nn.geo.joj.sk/hls/family-360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Television",Senzi HD
+http://lb.streaming.sk/;/stream/chunklist_w137443638.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Television",TV LUX HD
+https://stream.tvlux.sk/lux/ngrp:lux.stream_all/chunklist_b1492000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Television",TV Ruzinov HD
+https://lb.streaming.sk/tvruzinov/stream/chunklist_w145256109.m3u8
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Television",TV Nove Zamky
+http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Television",TV Reduta
+rtmp://s1.media-planet.sk:80/live/reduta
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Television";Sports",NBA TV
+http://new-pro.tv:8080/Hotel-2021/Allroom/71023
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Television",Spektrum TV
+http://new-pro.tv:8080/Hotel-2021/Allroom/71102
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Television;Sports",Sport 1
+http://new-pro.tv:8080/Hotel-2021/Allroom/71103
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Television;Sports",Sport 2
+http://new-pro.tv:8080/Hotel-2021/Allroom/71105
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Television;Sports",Sport 5
+http://new-pro.tv:8080/Hotel-2021/Allroom/71106
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Television",Viasat History
+http://new-pro.tv:8080/Hotel-2021/Allroom/71108
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Television",Elektrika TV
+http://rtmp.elektrika./live/myStream.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Television;Movies",Filmbox Premium HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/71066?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Television",Golf Channel
+http://new-pro.tv:8080/Hotel-2021/Allroom/71070?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Television;Movies",HBO FHD
+http://new-pro.tv:8080/Hotel-2021/Allroom/71073?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Television;Movies",HBO 3
+http://new-pro.tv:8080/Hotel-2021/Allroom/71072?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Television",History HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/71074?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Television",JOJ
+http://cdn.ayproviders.xyz:80/ZjFB7A8ySw/EM5OYbdMBa/98052?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Television;Movies",JOJ Cinema HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/71075?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Television",CS Mystery
+http://new-pro.tv:8080/Hotel-2021/Allroom/71079?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Television",Mnam TV
+http://new-pro.tv:8080/Hotel-2021/Allroom/71083?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Television",Nat Geo Wild FHD
+http://new-pro.tv:8080/Hotel-2021/Allroom/71086?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Television",Nautical HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/71089?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Television",Nova Action HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/71091?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Television",Polar TV
+https://stream.polar./polar/polarlive-1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Television",Prima HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/71097?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Television",RTM plus
+http://www.rtmplus./live/1-playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Television",Retro  TV
+http://new-pro.tv:8080/Hotel-2021/Allroom/71099?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Television",SKY Sports 2 HD
+http://wagmaott.com:8080/azaro_frCkq9RQiHt3/USwsyAq8Yz/7273?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Television",TV Morava
+http://stream.redigy.:1934/tvm.flv?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Television",TV Natura
+http://media1.tvnatura./live_out/1/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="https://i.iinfo./images/409/v1-vychodoceska-televize-1.jpg" group-title="Television",Východočeská TV
+https://stream.polar./vctv/vctvlive-1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Television",Ocko
+https://ocko-live-dash.ssl.cdn.cra./cra_live2/ocko.stream.1.smil/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Television",Óčko Expres
+http://ocko-live.ssl.cdn.cra./channels/ocko_expres/playlist/e/live_hq.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Television",Óčko Gold
+https://ocko-live-dash.ssl.cdn.cra./cra_live2/ocko_gold.stream.1.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Television",Óčko STAR
+http://ocko-live.ssl.cdn.cra./channels/ocko_gold/playlist/e/live_hq.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Television",Šlágr
+https://slagrtv-live-hls.ssl.cdn.cra./channels/slagrtv/playlist/e/live_hq.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Television",Šlágr 2
+http://92.62.234.233/slagr2.m3u#.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Radio",SR 1 (RTVS Slovensko)
+http://icecast.stv.livebox.sk/slovensko_128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Radio",SR 2 (RTVS Regina)
+http://icecast.stv.livebox.sk/regina-ba_128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Radio",SR 3 (RTVS Devin)
+https://icecast.stv.livebox.sk/devin_128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Radio",SR 4 (RTVS FM)
+https://icecast.stv.livebox.sk/fm_128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Radio",SR 5 (RTVS Patria)
+https://icecast.stv.livebox.sk/patria_128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Radio",SR 6 (RTVS Television International)
+https://icecast.stv.livebox.sk/rsi_128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Radio",SR 7 (RTVS Pyramida)
+https://icecast.stv.livebox.sk/klasika_128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Radio",SR 8 (RTVS Litera)
+https://icecast.stv.livebox.sk/litera_128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Radio",SR 9 (RTVS Junior)
+https://icecast.stv.livebox.sk/junior_128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Radio",Fun Radio (SK)
+https://stream.funradio.sk:8000/fun128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Radio",Expres (SK)
+https://stream.expres.sk/128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Radio",Europa 2 (SK)
+https://stream.radioservices.sk/europa2.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Radio",Radio Viva (SK)
+http://stream.sepia.sk:8000/viva128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Radio",Radio Jemne (SK)
+http://stream.radioservices.sk:8001/jemne-hi.mp3
